@@ -11,6 +11,17 @@
         "release_notes": "Primer release remoto de desarrollo"
       },
       "customers": {}
+    },
+    "release-candidate": {
+      "default": {
+        "version": "0.9.2-rc2",
+        "mandatory": false,
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc2/PuriControl-0.9.2-rc2.zip",
+        "sha256": "8243ac3858a2f3253a65919e5922925edf5358b28b094cc729acd2414d235fe9",
+        "requires_db_migration": false,
+        "release_notes": ""
+      },
+      "customers": {}
     }
   }
 }
