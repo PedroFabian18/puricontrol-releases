@@ -14,12 +14,12 @@
     },
     "release-candidate": {
       "default": {
-        "version": "0.9.2-rc5",
+        "version": "0.9.2-rc6",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc5/PuriControl-0.9.2-rc5.zip",
-        "sha256": "2a711f0ab3423d062995084ddbde8a282817f6a2cd3527fdfd9f0eae530ea0cd",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc6/PuriControl-0.9.2-rc6.zip",
+        "sha256": "f3f54a215651a33431ec2d2711a4392e4c1e2ace16254b8e7dd69916caae1f33",
         "requires_db_migration": false,
-        "release_notes": "RC5: protege la ubicación de datos del ejecutable comercial frente a configuraciones de laboratorio accidentales."
+        "release_notes": "Corrige el problema del enter de motivos en el dialogo de venta."
       },
       "customers": {}
     }
