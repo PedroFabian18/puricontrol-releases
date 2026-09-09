@@ -14,12 +14,12 @@
     },
     "release-candidate": {
       "default": {
-        "version": "0.9.2-rc4",
+        "version": "0.9.2-rc5",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc4/PuriControl-0.9.2-rc4.zip",
-        "sha256": "aa55b5f344f5c62c1ef0977cc19199d0b7d41496b8d6bcf3d84156130c577a0d",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc5/PuriControl-0.9.2-rc5.zip",
+        "sha256": "2a711f0ab3423d062995084ddbde8a282817f6a2cd3527fdfd9f0eae530ea0cd",
         "requires_db_migration": false,
-        "release_notes": "RC4: corrige el lanzamiento del actualizador de Windows con elevación UAC."
+        "release_notes": "RC5: protege la ubicación de datos del ejecutable comercial frente a configuraciones de laboratorio accidentales."
       },
       "customers": {}
     }
