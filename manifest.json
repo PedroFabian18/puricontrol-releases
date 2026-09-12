@@ -22,6 +22,17 @@
         "release_notes": "Se corrige logica de cierre de turno,."
       },
       "customers": {}
+    },
+    "stable": {
+      "default": {
+        "version": "0.9.9",
+        "mandatory": false,
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.9/PuriControl-0.9.9.zip",
+        "sha256": "71364cd6685e7912310f316791a04a75aba4fe95805fa56da96f1568dbaea876",
+        "requires_db_migration": false,
+        "release_notes": "Versión estable para producción"
+      },
+      "customers": {}
     }
   }
 }
