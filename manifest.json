@@ -14,13 +14,13 @@
     },
     "release-candidate": {
       "default": {
-        "version": "0.9.2-rc8",
-        "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.2-rc8/PuriControl-0.9.2-rc8.zip",
-        "sha256": "3e11e71d7a968f004195204ffeb92da537af4402c8e73fe9d26c905d5437d93e",
-        "requires_db_migration": true,
-        "release_notes": "Se corrige logica de cierre de turno,."
-      },
+      "version": "0.9.9",
+      "mandatory": false,
+      "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.9/PuriControl-0.9.9.zip",
+      "sha256": "71364cd6685e7912310f316791a04a75aba4fe95805fa56da96f1568dbaea876",
+      "requires_db_migration": true,
+      "release_notes": "Versión estable para producción"
+    },
       "customers": {}
     },
     "stable": {
@@ -29,7 +29,7 @@
         "mandatory": false,
         "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.9/PuriControl-0.9.9.zip",
         "sha256": "71364cd6685e7912310f316791a04a75aba4fe95805fa56da96f1568dbaea876",
-        "requires_db_migration": false,
+        "requires_db_migration": true,
         "release_notes": "Versión estable para producción"
       },
       "customers": {}
