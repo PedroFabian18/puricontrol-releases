@@ -14,23 +14,23 @@
     },
     "release-candidate": {
       "default": {
-      "version": "0.9.9",
-      "mandatory": false,
-      "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.9/PuriControl-0.9.9.zip",
-      "sha256": "71364cd6685e7912310f316791a04a75aba4fe95805fa56da96f1568dbaea876",
-      "requires_db_migration": true,
-      "release_notes": "Versión estable para producción"
-    },
-      "customers": {}
-    },
-    "stable": {
-      "default": {
         "version": "0.9.9",
         "mandatory": false,
         "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.9/PuriControl-0.9.9.zip",
         "sha256": "71364cd6685e7912310f316791a04a75aba4fe95805fa56da96f1568dbaea876",
         "requires_db_migration": true,
         "release_notes": "Versión estable para producción"
+      },
+      "customers": {}
+    },
+    "stable": {
+      "default": {
+        "version": "0.9.10",
+        "mandatory": false,
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.10/PuriControl-0.9.10.zip",
+        "sha256": "43c95a9147b93ae2beb09c53d77a0b3618e99564d6c11ae4eef0cac13ca162b0",
+        "requires_db_migration": true,
+        "release_notes": "Corrige la migración del fondo entre turnos y asegura la persistencia del fondo para el siguiente turno."
       },
       "customers": {}
     }
