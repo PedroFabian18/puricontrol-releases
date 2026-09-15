@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.11",
+        "version": "0.9.12",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.11/PuriControl-0.9.11.zip",
-        "sha256": "a28a875b7ca405861cd471f71df16cd1b9e09dfa90ba13abb12d55de20c0b8d5",
-        "requires_db_migration": false,
-        "release_notes": "Se agregan atajos para modificar precio, seleccion de carritos, tapones y cliente."
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.12/PuriControl-0.9.12.zip",
+        "sha256": "2fa7c001819cb9b621c058ba986d07fb0b20ea5c2421b3179b05cace0a3a50d9",
+        "requires_db_migration": true,
+        "release_notes": "Actualización de schema y migraciones."
       },
       "customers": {}
     }
