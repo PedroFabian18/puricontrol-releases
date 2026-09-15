@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.10",
+        "version": "0.9.11",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.10/PuriControl-0.9.10.zip",
-        "sha256": "43c95a9147b93ae2beb09c53d77a0b3618e99564d6c11ae4eef0cac13ca162b0",
-        "requires_db_migration": true,
-        "release_notes": "Corrige la migración del fondo entre turnos y asegura la persistencia del fondo para el siguiente turno."
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.11/PuriControl-0.9.11.zip",
+        "sha256": "a28a875b7ca405861cd471f71df16cd1b9e09dfa90ba13abb12d55de20c0b8d5",
+        "requires_db_migration": false,
+        "release_notes": "Se agregan atajos para modificar precio, seleccion de carritos, tapones y cliente."
       },
       "customers": {}
     }
