@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.12",
+        "version": "0.9.13",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.12/PuriControl-0.9.12.zip",
-        "sha256": "2fa7c001819cb9b621c058ba986d07fb0b20ea5c2421b3179b05cace0a3a50d9",
-        "requires_db_migration": true,
-        "release_notes": "Actualización de schema y migraciones."
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.13/PuriControl-0.9.13.zip",
+        "sha256": "9141714c29f6bea95d46a82a968be988021dfa68e43e147b12fdd63342f6907d",
+        "requires_db_migration": false,
+        "release_notes": "Se corrigen errores en gastos, se agrega etiqueta con el total de ventas en POS"
       },
       "customers": {}
     }
