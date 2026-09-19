@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.13",
+        "version": "0.9.14",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.13/PuriControl-0.9.13.zip",
-        "sha256": "9141714c29f6bea95d46a82a968be988021dfa68e43e147b12fdd63342f6907d",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.14/PuriControl-0.9.14.zip",
+        "sha256": "4fb6ffaf73398fed928fc3023ec04750c74549d5ab632675178f22c17d476ddd",
         "requires_db_migration": false,
-        "release_notes": "Se corrigen errores en gastos, se agrega etiqueta con el total de ventas en POS"
+        "release_notes": "Se actualiza punto de venta"
       },
       "customers": {}
     }
