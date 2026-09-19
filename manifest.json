@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.14",
+        "version": "0.9.15",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.14/PuriControl-0.9.14.zip",
-        "sha256": "4fb6ffaf73398fed928fc3023ec04750c74549d5ab632675178f22c17d476ddd",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.15/PuriControl-0.9.15.zip",
+        "sha256": "85ba5b4a241eeb9669e9c7ff9487aa8ef1b66c8c399c238eda664bbab722726c",
         "requires_db_migration": false,
-        "release_notes": "Se actualiza punto de venta"
+        "release_notes": "Se corrige el instalador."
       },
       "customers": {}
     }
