@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.15",
+        "version": "0.9.16",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.15/PuriControl-0.9.15.zip",
-        "sha256": "85ba5b4a241eeb9669e9c7ff9487aa8ef1b66c8c399c238eda664bbab722726c",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.16/PuriControl-0.9.16.zip",
+        "sha256": "fca297ae02523a487fdc22c5c92745b81243acd31dd40d7f56112cc8e3a6dc95",
         "requires_db_migration": false,
-        "release_notes": "Se corrige el instalador."
+        "release_notes": "Se corrige error en el carrito de venta cuando se selecciona cliente y posicionamiento del mouse"
       },
       "customers": {}
     }
