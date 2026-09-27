@@ -25,12 +25,12 @@
     },
     "stable": {
       "default": {
-        "version": "0.9.17",
+        "version": "0.9.18",
         "mandatory": false,
-        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.17/PuriControl-0.9.17.zip",
-        "sha256": "3632ddac4b41cf33ac93c723f51fd010477cd682d1dd5ce7b5468b62c72db1ef",
+        "package_url": "https://github.com/PedroFabian18/puricontrol-releases/releases/download/v0.9.18/PuriControl-0.9.18.zip",
+        "sha256": "227b5d3ddc99167ea81bfbabfee3a63c06dd3822b0449ee63aa2b71dfb2a2b45",
         "requires_db_migration": false,
-        "release_notes": "Se corrige seleccion de cliente en carrito de ventas."
+        "release_notes": "Se corrigen las validaciones en clientes."
       },
       "customers": {}
     }
